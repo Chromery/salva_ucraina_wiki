@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksalvaucrainawiki=self.webpackChunksalvaucrainawiki||[]).push([[406],{1295:function(a){a.exports=JSON.parse('{"allTagsPath":"/salva_ucraina_wiki/blog/tags","name":"facebook","count":1,"permalink":"/salva_ucraina_wiki/blog/tags/facebook"}')}}]);

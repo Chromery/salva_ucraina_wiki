@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksalvaucrainawiki=self.webpackChunksalvaucrainawiki||[]).push([[418],{2296:function(a){a.exports=JSON.parse('{"allTagsPath":"/salva_ucraina_wiki/blog/tags","name":"docusaurus","count":4,"permalink":"/salva_ucraina_wiki/blog/tags/docusaurus"}')}}]);
