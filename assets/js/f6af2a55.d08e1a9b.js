@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksalvaucrainawiki=self.webpackChunksalvaucrainawiki||[]).push([[879],{4431:function(a){a.exports=JSON.parse('{"permalink":"/salva_ucraina_wiki/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
